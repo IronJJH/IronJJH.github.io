@@ -6,7 +6,42 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Oct 2021 08:45:45 +0800</lastBuildDate><atom:link href="https://IronJJH.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Oct 2021 08:45:45 +0800</lastBuildDate><atom:link href="https://IronJJH.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first leetcode</title>
+      <link>https://IronJJH.github.io/post/first_leetcode/</link>
+      <pubDate>Tue, 05 Oct 2021 08:45:45 +0800</pubDate>
+      
+      <guid>https://IronJJH.github.io/post/first_leetcode/</guid>
+      <description>题目
+给定一个二叉树，检查它是否是镜像对称的。
+例如，二叉树 [1,2,2,3,4,4,3] 是对称的。
+1  / 2 2 / \ / 3 4 4 3
+但是下面这个 [1,2,2,null,3,null,3] 则不是镜像对称的:
+1  / 2 2 \ 3 3
+进阶：
+你可以运用递归和迭代两种方法解决这个问题吗？
+来源：力扣（LeetCode） 链接：https://leetcode-cn.com/problems/symmetric-tree 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+/**
+* Definition for a binary tree node.
+* struct TreeNode {
+* int val;
+* TreeNode *left;
+* TreeNode *right;
+* TreeNode() : val(0), left(nullptr), right(nullptr) {}
+* TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+* TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}</description>
+    </item>
+    
+    <item>
+      <title>sayhello</title>
+      <link>https://IronJJH.github.io/post/test/</link>
+      <pubDate>Mon, 04 Oct 2021 08:45:45 +0800</pubDate>
+      
+      <guid>https://IronJJH.github.io/post/test/</guid>
+      <description>hello,iron</description>
+    </item>
+    
     <item>
       <title>WHO</title>
       <link>https://IronJJH.github.io/post/blog/</link>
